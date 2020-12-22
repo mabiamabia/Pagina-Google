@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(250, 244, 244);
+    text-align: center;
+}
+
+.Busca-texto{
+    width: 500px; /*Largura do campo*/
+    height: 65px; /*Altura do campo*/
+    float: right; /*Posição do campo*/
+    background-image: url('img/ic_search_white_24dp_1x.png'); /*diretório e imagem do icone/*
+    background-position: left;  /*posição do icone*/
+    background-repeat: no-repeat; /*Não repetir o icone <- COLOCA ISSO PELO AMOR DE ODIN*/
+    background-color: #fff; /*Cor do fundo do campo*/
+    border: 2px solid #000; /*Cor da borda do campo*/
+    border-radius: 4px; /*Curvatura da borda nas "quinas"*/
+    text-indent: 25px; /*Um espaçamento para n atrapalhar a img*/
+}
+
+.primeiro {
+    color: rgb(30, 101, 255);
+    text-align: center;
+}
+
+.segundo {
+    color: rgb(240, 0, 0);
+}
+
+.terceiro {
+    color: rgb(201, 201, 34);
+}
+
+.quarto {
+    color: rgb(94, 113, 221);
+}
+
+.quinto {
+    color: green;
+}
+
+.sexto {
+    color: red;
+}
+
+.container {
+    font-size: 200%;
+    display: flex;
+    text-align: center;
+    top: 50%;
+}
