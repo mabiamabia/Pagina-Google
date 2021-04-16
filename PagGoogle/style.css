@@ -1,0 +1,47 @@
+P {
+    display: inline-block;
+}
+
+.busca {
+    display: inline-block;
+}
+
+
+div {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+input{
+    border-radius: 8px;
+    height: 44px;
+    width: 449px;
+    text-align: center;
+}
+
+
+div {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 92px;
+    padding: 5px;
+}
+
+.blu {
+    color: blue;
+}
+
+.rad {
+    color: red;
+}
+
+.ielou {
+    color: yellow;
+}
+
+.grin {
+    color: green;
+}
